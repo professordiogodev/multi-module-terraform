@@ -1,11 +1,4 @@
 
-# ======== PROVIDERS ==========
-
-# 1. Provider Configuration
-provider "aws" {
-  region = "eu-central-1"
-}
-
 # ======== SSH KEY ==========
 
 # 2. Resource: RSA Private Key
